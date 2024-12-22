@@ -1,0 +1,103 @@
+{
+  "questions": [
+    {
+      "abstract_question": "アップルバナナの美味しい食べ方",
+      "concrete_questions": [
+        {
+          "question": "アップルバナナの食べ頃は？",
+          "more_specific_questions": [
+            {
+              "question": "アップルバナナの追熟方法は？"
+            },
+            {
+              "question": "アップルバナナの食べ頃の色は？"
+            },
+            {
+              "question": "アップルバナナのシュガースポットは出るのか？"
+            }
+          ]
+        },
+        {
+          "question": "アップルバナナのおすすめの食べ方は？",
+          "more_specific_questions": [
+            {
+              "question": "アップルバナナは、皮をむいてそのまま食べる以外の食べ方はありますか？"
+            },
+            {
+              "question": "アップルバナナを使ったレシピはありますか？"
+            },
+            {
+              "question": "冷凍したアップルバナナの食べ方は？"
+            }
+          ]
+        },
+        {
+          "question": "アップルバナナの保存方法は？",
+          "more_specific_questions": [
+            { "question": "アップルバナナは常温保存できますか？" },
+            { "question": "アップルバナナは冷蔵保存できますか？" },
+            { "question": "アップルバナナは冷凍保存できますか？" }
+          ]
+        }
+      ]
+    },
+    {
+      "abstract_question": "マルエスファームではアップルバナナ以外に何を栽培していますか？",
+      "concrete_questions": [
+        {
+          "question": "マルエスファームで栽培している野菜は何ですか？",
+          "more_specific_questions": [
+            { "question": "オクラは栽培していますか？" },
+            { "question": "スナップエンドウは栽培していますか？" },
+            { "question": "レッドキャベツは栽培していますか？" }
+          ]
+        },
+        {
+          "question": "マルエスファームで栽培している果物は何ですか？",
+          "more_specific_questions": [
+            { "question": "スイートコーンは栽培していますか？" },
+            { "question": "マンゴーは栽培していますか？" },
+            { "question": "パイナップルは栽培していますか？" }
+          ]
+        },
+        {
+          "question": "マルエスファームで栽培している作物の旬の時期は？",
+          "more_specific_questions": [
+            { "question": "アップルバナナの旬の時期は？" },
+            { "question": "スイートコーンの旬の時期は？" },
+            { "question": "オクラの旬の時期は？" }
+          ]
+        }
+      ]
+    },
+    {
+      "abstract_question": "台風の多い沖縄ではどのような備えをしていますか？",
+      "concrete_questions": [
+        {
+          "question": "台風による農作物への被害を防ぐ対策は？",
+          "more_specific_questions": [
+            { "question": "強風対策は？" },
+            { "question": "大雨対策は？" },
+            { "question": "塩害対策は？" }
+          ]
+        },
+        {
+          "question": "台風後の農作物のケアは？",
+          "more_specific_questions": [
+            { "question": "倒れた作物の対処法は？" },
+            { "question": "浸水した畑の対処法は？" },
+            { "question": "病気や害虫対策は？" }
+          ]
+        },
+        {
+          "question": "台風による被害を軽減するための設備投資は？",
+          "more_specific_questions": [
+            { "question": "防風ネットの設置は？" },
+            { "question": "排水設備の整備は？" },
+            { "question": "耐風性のあるハウスの導入は？" }
+          ]
+        }
+      ]
+    }
+  ]
+}
