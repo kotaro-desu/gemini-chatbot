@@ -34,10 +34,10 @@ const Question = ({
 
   const responderOptions = [
     { value: "ロボット", label: "ロボット" },
-    { value: "荘司さん", label: "荘司さん" },
+    { value: "農家さん", label: "荘司さん" },
     {
-      value: "荘司さん（会話しながら回答）",
-      label: "荘司さん（会話しながら回答）",
+      value: "農家さん（会話しながら回答）",
+      label: "農家さん（会話しながら回答）",
     },
   ];
 
