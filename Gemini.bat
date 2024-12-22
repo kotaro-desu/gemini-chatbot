@@ -1,9 +1,9 @@
 @echo off
 
-cd /d C:\Users\SOL-Project\Gemini_Chatbot-main\src
+cd /d /Your_path/src
 start cmd /k uvicorn llm:app --reload --port 8000
 
-cd /d C:\Users\SOL-Project\Gemini_Chatbot-main
+cd /d /Your_path
 start cmd /k npm start --port 3000
 
 exit
